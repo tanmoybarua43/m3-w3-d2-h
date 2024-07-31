@@ -1,0 +1,11 @@
+{
+  "name": "m3-w4-d1-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tanmoy-Barua/m3-w4-d1-homework.git",
+  "author": "Tanmoy Barua <43274420+Tanmoy-Barua@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^4.2.0"
+  }
+}
